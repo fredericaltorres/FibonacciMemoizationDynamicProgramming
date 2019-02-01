@@ -19,7 +19,7 @@ namespace FibonacciUnitTests
         }
 
         [TestMethod]
-        public void ComputeFirst1And2Numbers()
+        public void ComputeFirst12Numbers()
         {
             for(var i = 0; i < FibonacciSequenceExpected.Count; i++)
             {
